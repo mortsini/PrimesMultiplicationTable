@@ -6,9 +6,6 @@
   * Date: August 19, 2014
   * License: Free
 =end
-def error_text()
-	return "Exiting on error. No primes will be printed."
-end
 def check_convert_int(num)
 	error = nil
 	if num.length == 0
